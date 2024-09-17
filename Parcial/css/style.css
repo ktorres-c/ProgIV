@@ -1,0 +1,9 @@
+.head{position: fixed; top: 0; left: 0;  width: 100%; 
+    padding: 1%; margin: 0px; text-align: center; 
+    background-color: hsla(220, 98%, 58%, 0.6);}
+.menu ul li{list-style: none; float: left;}
+.menu ul li a{text-decoration: none; color: ghostwhite; display: inline-block; padding: 4px;}
+.menu ul li a:hover{color: hsla(220, 98%, 58%, 0.6); background-color: ghostwhite;}
+footer{width: 100%; position: absolute; 
+    padding: 5px; margin: 2px; text-align: center; 
+    background-color: hsla(239, 100%, 52%, 0.6); color: ghostwhite;}

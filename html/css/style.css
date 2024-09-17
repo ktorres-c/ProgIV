@@ -1,0 +1,20 @@
+/* comentario */
+
+body{ background-color: rgb(190, 181, 181)}
+.primero{ color: brown;
+background-color: aquamarine;}
+.segundo{color: wheat;
+background-color: yellowgreen;}
+.XD{font: 1em/1.3 Arial, Helvetica,sans-serif;
+color: #555;}
+.first{font: 1em/1.3 Arial, Helvetica,sans-serif;
+    color: #336699; }
+.pilin{background: #FFFFCC; padding:.1em}
+.DX{color: #CC3300;}
+.ejemplo{ background-color: lightgrey;
+width: 60%; border: 15px solid green; padding: 10px; text-align: justify; color: blue; }
+.article1{background-color: lightpink; width: 60%; border: 15px solid ghostwhite; padding: 10px; text-align: justify; color: blue; }
+.main1{background-color: bisque; width: 60%; border: 15px solid green; padding: 10px; text-align: justify; color: blue;}
+.oculto{display: none;}
+.static{position: static; margin: 10px solid red; background-color: aqua; border: 2px;}
+.esfixed{position: fixed; top: 0; bottom: 100; width: 60%; border: 15px solid green; padding: 10px; text-align: justify; color: blue; }
